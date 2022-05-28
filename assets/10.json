@@ -1,0 +1,46 @@
+{
+  "name": "Omens of Olympus #10",
+  "symbol": "OMENS",
+  "description": "This collection of 20,000 soldiers in the fight for celestial and infernal dominance can be enlisted into either the Horns or Halos side in the ongoing battle for the cosmos.",
+  "seller_fee_basis_points": 1000,
+  "image": "10.png",
+  "external_url": null,
+  "edition": 10,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "bg2"
+    },
+    {
+      "trait_type": "Claws",
+      "value": "claws_white"
+    },
+    {
+      "trait_type": "Pedestal",
+      "value": "beachball"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "foxy"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "10.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "9mcW8SCxHKr1rCQ3ZSYuEwUF2foNUnUsTQerrRKQhEda",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "Omens of Olympus Soldiers",
+    "family": "Omens of Olympus Soldiers"
+  }
+}

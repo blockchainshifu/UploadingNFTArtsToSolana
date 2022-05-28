@@ -1,0 +1,2 @@
+upload
+ts-node .\src\candy-machine-v2-cli.ts upload -e devnet -k C:\Users\Administrator\.config\solana\id.json -cp .\config.json -c testcollection .\assets
